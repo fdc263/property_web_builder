@@ -7,7 +7,7 @@ window.onload = function() {
   // var pwbGM = Vue.component('gmap-map', VueGoogleMaps);
   Vue.use(VueGoogleMaps, {
     load: {
-      key: 'AIzaSyCPorm8YzIaUGhKfe5cvpgofZ_gdT8hdZw'
+      key: 'AIzaSyC0RkiBX1AtO1PyY2_RrrtvVfa1aASkbBw'
       // v: '3.26', // Google Maps API version
       // libraries: 'places',   // If you want to use places input
     }

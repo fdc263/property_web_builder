@@ -13,7 +13,7 @@ PwbSectionsController.prototype.contact_us = function() {
   //   window.map_callback = function() {
   //     INMOAPP.showMap(currentItemForMap);
   //   };
-  //   $.getScript('https://maps.googleapis.com/maps/api/js?key=AIzaSyCPorm8YzIaUGhKfe5cvpgofZ_gdT8hdZw&v=3.exp&sensor=false&callback=map_callback&libraries=places');
+  //   $.getScript('https://maps.googleapis.com/maps/api/js?key=AIzaSyC0RkiBX1AtO1PyY2_RrrtvVfa1aASkbBw&v=3.exp&sensor=false&callback=map_callback&libraries=places');
   // } else {
   //   INMOAPP.showMap(currentItemForMap);
   // }
